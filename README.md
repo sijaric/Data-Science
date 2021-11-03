@@ -1,5 +1,4 @@
 # Data-Science
-Projects
 
 #### Hypothesis-testing effort to answer the question: 
 Can we predict a country's total COVID-19 cases per million, on the basis of information about their perceptions of corruption?
